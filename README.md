@@ -33,7 +33,7 @@ The type of the Dos attack is TCP Flood, the power of the attack will depend of 
 <br>
 
 <p align="right">
-<img src="https://repository-images.githubusercontent.com/465364428/50aa627e-8cb0-4970-afd9-51c81fe021f1" width="250", height="250">
+<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_ethical_hacking.jpg" width="250", height="250">
 </p>
 
 <br>
