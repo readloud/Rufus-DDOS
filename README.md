@@ -2,9 +2,12 @@
 
 ### 🦎 Rufus 🦎
 
+
 Rufus is a simple but powerful Denial of Service tool written in Python3.
 The type of the Dos attack is TCP Flood, the power of the attack will depend of your internet speed.
+
 -----
+
 ### ⭐ Features ⭐
 
 + Layer 4 attack
