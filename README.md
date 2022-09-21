@@ -6,73 +6,39 @@
 
 -----
 
-### <p align="center">🦎 Rufus 🦎</p>
+### 🦎 Rufus 🦎
 
-<br><br>
-<p align="center">
-<strong>
 Rufus is a simple but powerful Denial of Service tool written in Python3.
-<br>
 The type of the Dos attack is TCP Flood, the power of the attack will depend of your internet speed.
-<br><br><br>
-</strong>
-<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_ethical_hacking.jpg" width="750", height="50">
-</p>
-<br>
 
------
+### ⭐ Features ⭐
 
-### <p align="center">⭐ Features ⭐</p>
++ Layer 4 attack
++ The only limit of the attack is your internet speed<
++ You can choose the number of threads</strong>
+- No proxies will be used so the victim will see your IP Address
 
-<br><br>
-<strong>+ Layer 4 attack</strong>
-<br>
-<strong>+ The only limit of the attack is your internet speed</strong>
-<br>
-<strong>+ You can choose the number of threads</strong>
-<br>
+### 🎯 Levels 🎯
 
-<p align="right">
-<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_ethical_hacking.jpg" width="250", height="250">
-</p>
+This section shows the "levels" of this project, from 0/5 ⚪ to 5/5 ⚫!
+⚪🟢🔵🔴🟣⚫
 
-<br>
-<strong>- No proxies will be used so the victim will see your IP Address</strong>
-<br><br>
-
------
-
-### <p align="center">🎯 Levels 🎯</p>
-
-<p align="center"><strong><i>This section shows the "levels" of this project, from 0/5 ⚪ to 5/5 ⚫!</i></strong</p>
-<p align="center"><strong><i>⚪🟢🔵🔴🟣⚫</i></strong</p>
-
-<br><br>
 * Time: ⚪
 * Complexity: 🟢
 * Service: 🔴
-<br><br>
-
 -----
 
-### <p align="center">💡 Ideas 💡</p>
+### 💡 Ideas 💡
 
-<p align="center"><strong><i>Feel free to make a pull request on this repository to submit any idea!</i></strong</p>
+Feel free to make a pull request on this repository to submit any idea!
 
-<br><br>
 * Add more attack modes (ex: SYN Flood, DNS Flood)
 * Add a Layer 7 mode
-<br><br>
  
 -----
 
-### <p align="center">📌 Disclaimer 📌</p>
+### 📌 Disclaimer 📌
 
-<br><br>
 * ***Please use this program only for educational purposes.***
 * ***It is not meant to be used in any malicious way, and I decline any responsibility for what you do with it.***
-<br><br>
-
 -----
-
-### <p align="center">billythegoat356</p>
