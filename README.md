@@ -1,7 +1,7 @@
 -----
 
 <p align="center">
-<img src="https://repository-images.githubusercontent.com/465364428/50aa627e-8cb0-4970-afd9-51c81fe021f1", width="500", height="500">
+<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_ethical_hacking.jpg", width="500", height="500">
 </p>
 
 -----
@@ -16,7 +16,7 @@ Rufus is a simple but powerful Denial of Service tool written in Python3.
 The type of the Dos attack is TCP Flood, the power of the attack will depend of your internet speed.
 <br><br><br>
 </strong>
-<img src="https://cdn.discordapp.com/attachments/947619028715847700/948596915002556476/unknown.png" width="750", height="50">
+<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_ethical_hacking.jpg" width="750", height="50">
 </p>
 <br>
 
